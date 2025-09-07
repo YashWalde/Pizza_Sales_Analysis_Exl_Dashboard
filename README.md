@@ -11,4 +11,5 @@ The objective of this project is to design an interactive Excel dashboard that p
 -	In which month were sales highest and lowest?
 -	Which pizza size is preferred by customers?
 -	Which pizzas drive the majority of sales?
-- <a href = "https://github.com/YashWalde/Pizza_Sales_Analysis_Exl_Dashboard/blob/main/Screenshot_Db.png"></a>
+
+<a href = "https://github.com/YashWalde/Pizza_Sales_Analysis_Exl_Dashboard/blob/main/Screenshot_Db.png"> Dashboard Interaction </a>
