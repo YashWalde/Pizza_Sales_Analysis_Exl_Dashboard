@@ -22,3 +22,11 @@ The objective of this project is to design an interactive Excel dashboard that p
 
 ## Dashboard
 <img width="1854" height="799" alt="Screenshot_Db" src="https://github.com/user-attachments/assets/da3803e7-9cac-4caa-a5b2-207f0743e36a" />
+
+## Project Insights 
+-Classic pizzas contribute the highest sales share (~27%), followed closely by Supreme pizzas (~25%).
+-The Classic Deluxe is the most popular pizza, ranking #1 in total orders.
+-Large (L) and Medium (M) sizes dominate sales compared to other sizes.
+-Monthly sales show clear fluctuations, helping identify peak demand periods.
+-The bottom 5 pizzas indicate underperforming products that may need promotion or removal.
+-Sales trends by day reveal which days of the week drive maximum orders.
