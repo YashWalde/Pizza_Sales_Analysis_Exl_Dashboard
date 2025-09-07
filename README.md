@@ -13,3 +13,9 @@ The objective of this project is to design an interactive Excel dashboard that p
 -	Which pizzas drive the majority of sales?
 
 <a href = "https://github.com/YashWalde/Pizza_Sales_Analysis_Exl_Dashboard/blob/main/Screenshot_Db.png"> Dashboard Interaction </a>
+## Process
+- Imported four datasets – Orders, Order Details, Pizzas, and Pizza Types into Excel.
+- Performed data cleaning and transformation (removing duplicates, formatting columns, ensuring consistency).
+- Loaded the cleaned data and built PivotTables to summarize key metrics like sales, orders, and categories.
+- Created Pivot Charts (bar, pie, and donut charts) to visualize trends and distributions.
+- Designed an interactive dashboard with slicers and KPI cards for dynamic filtering and quick insights.
