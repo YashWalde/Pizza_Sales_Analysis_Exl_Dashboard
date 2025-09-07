@@ -19,3 +19,6 @@ The objective of this project is to design an interactive Excel dashboard that p
 - Loaded the cleaned data and built PivotTables to summarize key metrics like sales, orders, and categories.
 - Created Pivot Charts (bar, pie, and donut charts) to visualize trends and distributions.
 - Designed an interactive dashboard with slicers and KPI cards for dynamic filtering and quick insights.
+
+## Dashboard
+<img width="1854" height="799" alt="Screenshot_Db" src="https://github.com/user-attachments/assets/da3803e7-9cac-4caa-a5b2-207f0743e36a" />
